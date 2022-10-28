@@ -1,0 +1,29 @@
+.c1{
+    color: brown;
+    text-decoration:line-through;
+    font-weight: bold;
+}
+.c2{
+    color: brown;
+    background-color: yellow;
+    font-weight: bold;
+}
+.c3{
+    color: brown;
+    text-decoration: underline;
+}
+.c4{
+    color: brown;
+    letter-spacing: 3px;
+}
+.c5{
+    color: brown;
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.c6{
+    color: brown;
+}
